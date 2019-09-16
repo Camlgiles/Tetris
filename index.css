@@ -1,0 +1,41 @@
+body{
+    background: linear-gradient(to bottom, #000099 0%, #33ccff 100%);
+        color: #ffffff;
+        font-family: sans-serif;
+        font-size: 2em;
+        text-align: center;
+}
+
+.header{
+  margin-bottom: 12px;
+}
+
+.title{
+  font-weight: 800;
+  margin-bottom: 4px;
+}
+
+.scores{
+  font-weight: 300;
+}
+
+canvas {
+        /* border: solid .2em #ffffff; */
+        height: 80vh;
+        margin-left: 2.4em;
+        border-radius: 5px;
+      }
+
+.main{
+  display: inline-flex;
+  justify-content: center;
+  margin-left: 9em;
+}
+
+
+.scoreboard{
+  background-color: rgb(0, 0, 0);
+  margin-left: 2em;
+  height: 10em;
+  border-radius: 5px;
+}
