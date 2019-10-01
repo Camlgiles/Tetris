@@ -15,8 +15,8 @@ https://camlgiles.github.io/Tetris/
 - Arrow keys are used for movement
 - Fill an entire row to gain points. Row will disappear once full.
 
-![tetris](https://github.com/Camlgiles/Tetris/blob/master/image4.png)
-
 ![tetris](https://github.com/Camlgiles/Tetris/blob/master/image5.png)
+
+![tetris](https://github.com/Camlgiles/Tetris/blob/master/image4.png)
 
 ![tetris](https://github.com/Camlgiles/Tetris/blob/master/image3.png)
