@@ -7,6 +7,8 @@ https://camlgiles.github.io/Tetris/
 - HTML
 - CSS
 
+![tetris](https://github.com/Camlgiles/Tetris/blob/master/image2.png)
+
 
 ## How to play
 - Push Enter to start
@@ -14,4 +16,4 @@ https://camlgiles.github.io/Tetris/
 - Arrow keys are used for movement
 - Fill an entire row to gain points. Row will disappear once full.
 
-
+![tetris](https://github.com/Camlgiles/Tetris/blob/master/image3.png)
