@@ -17,6 +17,4 @@ https://camlgiles.github.io/Tetris/
 
 ![tetris](https://github.com/Camlgiles/Tetris/blob/master/image5.png)
 
-![tetris](https://github.com/Camlgiles/Tetris/blob/master/image4.png)
-
 ![tetris](https://github.com/Camlgiles/Tetris/blob/master/image3.png)
